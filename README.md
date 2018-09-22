@@ -10,3 +10,9 @@ The choice of image is up to you. Interesting functions include (x+y)/2, x*y, an
 (You need to use a loop to allocate each []uint8 inside the [][]uint8.)
 
 (Use uint8(intValue) to convert between types.)
+
+# exercise-maps.go
+Exercise: Maps
+Implement WordCount. It should return a map of the counts of each “word” in the string s. The wc.Test function runs a test suite against the provided function and prints success or failure.
+
+You might find strings.Fields helpful.
