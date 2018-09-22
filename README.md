@@ -16,3 +16,9 @@ Exercise: Maps
 Implement WordCount. It should return a map of the counts of each “word” in the string s. The wc.Test function runs a test suite against the provided function and prints success or failure.
 
 You might find strings.Fields helpful.
+
+# exercise-fibonacci-closre.go
+Exercise: Fibonacci closure
+Let's have some fun with functions.
+
+Implement a fibonacci function that returns a function (a closure) that returns successive fibonacci numbers (0, 1, 1, 2, 3, 5, ...).
