@@ -22,3 +22,9 @@ Exercise: Fibonacci closure
 Let's have some fun with functions.
 
 Implement a fibonacci function that returns a function (a closure) that returns successive fibonacci numbers (0, 1, 1, 2, 3, 5, ...).
+
+# exercise-stringer.go
+Exercise: Stringers
+Make the IPAddr type implement fmt.Stringer to print the address as a dotted quad.
+
+For instance, IPAddr{1, 2, 3, 4} should print as "1.2.3.4".
